@@ -45,7 +45,7 @@ Happy Birthday ♡`,
     "i love your laugh",
     "you make me happy",
     "you are so beautiful",
-    "you mean everything",
+    "you mean a lot",
     "so glad you exist",
     "forever cheering for you"
   ]
