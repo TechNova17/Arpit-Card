@@ -11,7 +11,7 @@
 const CONFIG = {
 
   // Dayy of the month being celebrated (1–31)
-  day: 28,
+  day: 24,
 
   // The birthday person's name, shown on the memory wall and letter
   name: "THAKUR BHAI",
